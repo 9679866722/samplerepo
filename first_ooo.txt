@@ -3,3 +3,4 @@ I want this to go into commit 2.
 change by harry
 this is changed.
 this is master
+this is added
